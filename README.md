@@ -1,4 +1,5 @@
-![logo](https://github.com/Div16s/Div16s/blob/main/Hey%2C%20I%20am..%20Divyankar%20Shah%20%20Computer%20Science%20Engineer.mp4)
+![GIFD](https://user-images.githubusercontent.com/96831931/225391555-95038af8-5350-466a-b67d-c5a18abe5c1e.gif)
+
 <h1 align="center">Hi 👋, I'm Divyankar Shah</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 
