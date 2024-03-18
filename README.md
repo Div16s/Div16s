@@ -21,8 +21,8 @@
 <a href="https://linkedin.com/in/divyankar-shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyankar-shah" height="30" width="40" /></a>
 <a href="https://instagram.com/divyankarshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyankarshah" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/divyankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="divyankar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/divyankar shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="divyankar shah" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/divyankar shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="divyankar shah" height="30" width="40" /></a>
+<a href="https://leetcode.com/Div16s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="divyankar shah" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/divyankarshah1602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="divyankar shah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
